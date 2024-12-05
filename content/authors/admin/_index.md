@@ -1,29 +1,30 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Zhe Yan
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Zhe
+last_name: Yan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of seismic exploration
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: China University of Geosciences
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include oil and gas seismic exploration.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Signal Analysis and Processing
+  - New Methods of Seismic Data Interpretation
+  - Seismic Angle-domain Migration Imaging and Illumination
+  - Artificial Intelligence Technologies in Seismic Exploration
 
 education:
   courses:
