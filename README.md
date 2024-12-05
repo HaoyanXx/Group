@@ -1,4 +1,4 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+# [Intelligent Seismic Exploration Research Group](https://haoyanxx.github.io/Group/)
 
 [![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
 
