@@ -1,11 +1,11 @@
 ---
-title: "An example journal article"
+title: "Deep carbonate fault--karst reservoir characterization by multi-task learning"
 authors:
+- Zheng Zhang
 - admin
-- Robert Ford
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+#- "Equal contribution"
+#- "Equal contribution"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
